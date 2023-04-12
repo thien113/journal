@@ -1,4 +1,4 @@
-# Journal App
+# Journal App with React and LocalStorage
 
 ## Purpose
 
@@ -7,6 +7,12 @@ You can alls switch between two tabs. All Entries and Favorites.
 The Entries tabs contains all of your notes.
 While the Favorites tabs shows only bookmarked one. To mark an entry as bookmark click the star image. It's save inside localstorage as well.
 Delete bookmarked entries is only possible isnide "All Entries"-tabs.
+
+## Technique used
+
+- React Hooks - useState
+- LocalStorage
+- Css
 
 ## Available Scripts
 
